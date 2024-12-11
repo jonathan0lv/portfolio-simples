@@ -1,4 +1,4 @@
-# Nft landing page
+# Portfolio simples
 
 ## 🖋️ Sobre
 Este é um projeto de um simples portfolio com design moderno desenvolvido por mim, fique a vontade para usa-lo ou contribuir com o projeto!
