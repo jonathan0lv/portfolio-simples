@@ -10,7 +10,7 @@ Este é um projeto de um simples portfolio com design moderno desenvolvido por m
 </div>
 
 ## 🌐 Deploy
-🔗[Clique aqui para ver o deploy](https://simple-front-end-portfolio.netlify.app/)
+🔗[Clique aqui para ver o deploy](https://simple-frontend-portfolio.netlify.app/)
 
 ## 🧑‍💻 Time
 
